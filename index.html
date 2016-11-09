@@ -1,61 +1,25 @@
 ---
-layout: page
+layout: minimal
 title: Welcome
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
+I'm a Ph.D. candidate in [political
+science](http://web.mit.edu/polisci/index.html) at the Massachusetts Institute
+of Technology specializing in how policymaking in the United States responds to
+public opinion and interest-group activity.
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+In my dissertation, I examine how organized groups mediate [policy
+responsiveness](). I study how the activity of groups like business and
+professional associations affects the connection between the public and its
+representatives.
 
-    <div class="post-entry">
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-      {% assign excerpt_word_count = post.excerpt | number_of_words %}
-      {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-      {% endif %}
-    </div>
+My other work addresses related questions of access and representation: how
+[citizen redistricting]() in California influenced legislators; the effects of
+personal interactions with [ID requirements]() on voter perceptions of the
+election system; and the dynamics of [partisan polarization]() in the American
+public.
 
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
+My technical interests are in unstructured data and natural language processing;
+survey methods; and research design for causal inference. 
 
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
