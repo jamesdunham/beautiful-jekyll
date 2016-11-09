@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-# Working papers
+# The Ideological Nationalization of Mass Partisanship: Policy Preferences and Partisan Identification in State Publics, 1946–2014
 
-[Caughey, Devin](http://caughey.mit.edu/welcome), James Dunham, and [Christopher Warshaw](http://web.mit.edu/~cwarshaw/www/). "The Ideological Nationalization of Mass Partisanship: Policy Preferences and Partisan Identification in State Publics, 1946–2014."
+Working paper with [Devin Caughey](http://caughey.mit.edu/welcome) and [Christopher Warshaw](http://web.mit.edu/~cwarshaw/www/).
 
 *Abstract:* Since the mid-20th century, elite political behavior has increasingly
 nationalized. In Congress, for example, within-party geographic cleavages have
