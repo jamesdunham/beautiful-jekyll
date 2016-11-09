@@ -3,7 +3,8 @@ layout: page
 title: Research
 ---
 
-# The Ideological Nationalization of Mass Partisanship: Policy Preferences and Partisan Identification in State Publics, 1946–2014
+# The Ideological Nationalization of Mass Partisanship
+## Policy Preferences and Partisan Identification in State Publics, 1946–2014
 
 Working paper with [Devin Caughey](http://caughey.mit.edu/welcome) and [Christopher Warshaw](http://web.mit.edu/~cwarshaw/www/).
 
