@@ -6,8 +6,8 @@ title: Code
 ## qsurvey
 
 [qsurvey](https://github.com/jamesdunham/qsurvey) is a toolkit for working with
-the Qualtrics platform and its survey data in R. Download responses and designs
-into a session, then:
+the [Qualtrics](https://www.qualtrics.com/research-suite) platform and its survey
+data in R. Download responses and designs into a session, then:
 
 * Represent survey flows as directed graphs for interactive review in Shiny
 * Validate branching and randomization with checks on the proportion of
