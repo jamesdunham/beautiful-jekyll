@@ -10,13 +10,9 @@ the [Qualtrics](https://www.qualtrics.com/research-suite) platform and its surve
 data in R. Download responses and designs directly into a session, then:
 
 * Represent survey flows as directed graphs for interactive review in Shiny
-* Validate branching and randomization with checks on the proportion of
-  respondents who saw a question, conditional on having viewed others /
-  given some response / embedded data
-* Inspect question characteristics like validation, randomization, and recodes
+* Examine branching, randomization, and question attributes like validation
 * Map question ids to labels (`QID7` ⟷ `trust`) and translate between choice
   codes and descriptions (`2` ⟷ `disapprove`) in response data
-* Use helper functions for other common tasks
 
 ## dgo
 
