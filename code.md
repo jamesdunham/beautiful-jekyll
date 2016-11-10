@@ -20,3 +20,7 @@ See more at the [project page](../qsurvey).
 ## dgo
 
 [dgo](../dgo) is an R package for dynamic estimation of group-level opinion with multilevel Bayesian models.
+
+## test gist
+
+<script src="https://gist.github.com/jamesdunham/77674282e61ec9865596f6c39407b1e4.js"></script>
