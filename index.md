@@ -10,7 +10,7 @@ I work on prediction and inference in politics and policy.
 My technical focus is on measurement problems involving information extraction, entity linkage, and latent variables.
 
 I finished a Ph.D. in political science at MIT in fall 2018.
-Previously, I studied public policy at NYU for an M.P.A., and built digital campaigns for issue-advocacy groups.
+Previously, I studied public policy at NYU for an M.P.A., and I built digital campaigns for issue-advocacy groups.
 
 ## Code
 
@@ -20,7 +20,7 @@ I use JS for D3, Dash, or Shiny.
 
 [dgo](../dgo) implements dynamic estimation of latent characteristics using multilevel Bayesian models.
 It estimates subpopulation means from individual-level item response data.
-Written in R with [Devin Caughey](https://caughey.mit.edu/welcome) and [Christopher Warshaw](http://www.chriswarshaw.com/) across a number of projects, including our paper below.
+Written in R with [Devin Caughey](https://caughey.mit.edu/welcome) and [Christopher Warshaw](http://www.chriswarshaw.com/), across a number of projects, including our paper below.
 
 I wrote [qsurvey](../qsurvey) while staffing [MIT PERL](http://web.mit.edu/polisci/research/perl.html).
 It's a toolkit for R users working with the Qualtrics platform: designing surveys and analyzing results.
