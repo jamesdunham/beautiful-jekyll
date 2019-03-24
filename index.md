@@ -6,11 +6,10 @@ layout: default
 
 <img class="profile-picture" src="portrait-icon.jpg">
 
-I work in prediction and inference around politics and policy.
+I work on prediction and inference in politics and policy.
 My technical focus is on measurement problems involving information extraction, entity linkage, and latent variables.
-
-I received a Ph.D. in political science from MIT in fall 2018.
-I previously studied public policy at NYU for an M.P.A. and built digital campaigns for issue-advocacy groups.
+I finished a Ph.D. in political science at MIT in fall 2018.
+Previously I studied public policy at NYU for an M.P.A. and built digital campaigns for issue-advocacy groups.
 
 ## Code
 
