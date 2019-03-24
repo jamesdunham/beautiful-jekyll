@@ -8,6 +8,7 @@ layout: default
 
 I work on prediction and inference in politics and policy.
 My technical focus is on measurement problems involving information extraction, entity linkage, and latent variables.
+
 I finished a Ph.D. in political science at MIT in fall 2018.
 Previously, I studied public policy at NYU for an M.P.A., and built digital campaigns for issue-advocacy groups.
 
