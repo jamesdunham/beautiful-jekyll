@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="portrait-icon.jpg">
 
-I work in prediction and inference around politics and policy.
+I work on prediction and inference in politics and policy.
 My technical focus is on measurement problems involving information extraction, entity linkage, and latent variables.
 
 Since spring 2019, I've been a data scientist at Georgetown University's [Center for Security and
@@ -20,8 +20,8 @@ I received a Ph.D. in political science from MIT in fall 2018, and an M.P.A. in 
 Public work from CSET can be found on our [GitHub](https://github.com/georgetown-cset).
 
 [dgo](../dgo) implements dynamic estimation of latent characteristics using multilevel Bayesian models.
-It offers a method for estimating subpopulation means from individual-level item response data.
-Written in R with [Devin Caughey](https://caughey.mit.edu/welcome) and [Christopher Warshaw](http://www.chriswarshaw.com/) across a number of projects, including our paper below.
+It estimates subpopulation means from individual-level item response data.
+Written in R with [Devin Caughey](https://caughey.mit.edu/welcome) and [Christopher Warshaw](http://www.chriswarshaw.com/), across a number of projects, including our paper below.
 
 I wrote [qsurvey](../qsurvey) while staffing [MIT PERL](http://web.mit.edu/polisci/research/perl.html).
 It's a toolkit for R users working with the Qualtrics platform: designing surveys and analyzing results.
