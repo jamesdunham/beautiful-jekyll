@@ -9,23 +9,22 @@ layout: default
 I work in prediction and inference around politics and policy.
 My technical focus is on measurement problems involving information extraction, entity linkage, and latent variables.
 
-I received a Ph.D. in political science from MIT in fall 2018.
-I previously studied public policy at NYU for an M.P.A. and built digital campaigns for issue-advocacy groups.
+Since spring 2019, I've been a data scientist at Georgetown University's [Center for Security and
+Emerging Technology](https://cset.georgetown.edu).
+I teach a quantitative capstone course at [NYU](https://wagner.nyu.edu/).
+I've also worked on open civic data at the MIT Election Lab and developed survey methods at MIT’s Political Experiments Research Lab.
+I received a Ph.D. in political science from MIT in fall 2018, and an M.P.A. in public policy from NYU in 2012.
 
 ## Code
 
-I write Python and SQL for work.
-Graduate training immersed me in R.
-I use JS for D3, Dash, or Shiny.
+Public work from CSET can be found on our [GitHub](https://github.com/georgetown-cset).
 
 [dgo](../dgo) implements dynamic estimation of latent characteristics using multilevel Bayesian models.
-It implements a method for estimating subpopulation means from individual-level item response data.
+It offers a method for estimating subpopulation means from individual-level item response data.
 Written in R with [Devin Caughey](https://caughey.mit.edu/welcome) and [Christopher Warshaw](http://www.chriswarshaw.com/) across a number of projects, including our paper below.
 
 I wrote [qsurvey](../qsurvey) while staffing [MIT PERL](http://web.mit.edu/polisci/research/perl.html).
 It's a toolkit for R users working with the Qualtrics platform: designing surveys and analyzing results.
-
-From my time at the MIT [Election Lab](https://electionlab.mit.edu), you can find one example of a Python package for [data management](https://github.com/MEDSL/data-management) and another generating [consistent documentation](https://github.com/MEDSL/documentation) through Jinja templating.
 
 ## Publications
 
@@ -73,7 +72,4 @@ From my time at the MIT [Election Lab](https://electionlab.mit.edu), you can fin
 > Democratic opinion resembles the political reality of a party that is more
 > heterogeneous than its opposition. 
 
-
-<!-- ## Data -->
-<!-- (See also the [precinct returns](https://github.com/MEDSL/official-precinct-returns) themselves.) -->
 
